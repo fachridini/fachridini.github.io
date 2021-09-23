@@ -113,6 +113,7 @@ p {
   display: block;
   margin: auto;
   height: 55px;
+  transform: translateX(-7px);  
 }
 
 .names-content-container {
