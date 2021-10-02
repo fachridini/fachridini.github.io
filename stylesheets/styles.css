@@ -36,21 +36,21 @@ p {
 }
 
 .header-container {
-  background: url(../assets/header.jpg) no-repeat center;
+  background: url(../assets/header.jpg) no-repeat center 75%;
   background-size: cover;
   height: 400px;
 }
 
 .header-container .header-bg {
   height: 100%;
-  background-color: rgba(0,0,0,0.3);  
+  background-color: rgba(0,0,0,0.3);
 }
 
 .header-container .title {
   display: flex;
   justify-content: center;
   align-items: center;
-  top: 125px;
+  top: 215px;
   position: relative;
   flex-direction: column;
 }
