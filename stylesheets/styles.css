@@ -41,6 +41,11 @@ p {
   height: 400px;
 }
 
+.header-container .header-bg {
+  height: 100%;
+  background-color: rgba(0,0,0,0.3);  
+}
+
 .header-container .title {
   display: flex;
   justify-content: center;
